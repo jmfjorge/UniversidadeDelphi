@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/05 14:57:15.000.228,=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/05/03 01:48:19.000.996,=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/05/03 01:49:10.000.980,C:\Desenvolvimento\Temporário\UniDelphi\Tethering\Unit1.dfm=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2020/05/03 01:49:10.000.980,C:\Desenvolvimento\Temporário\UniDelphi\Tethering\Unit1.pas=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/05/03 01:49:28.000.722,C:\Desenvolvimento\Temporário\UniDelphi\Tethering\TetheringClient.dproj=C:\Users\desen\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMacOsCatalinaVMJorge iOSSimulator="_iossimulator_F7C050DA-C211-43B0-8AA7-9D5A19C45299"/>
+	</ActiveMobileDevice>
+</BorlandProject>
